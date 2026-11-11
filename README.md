@@ -69,7 +69,7 @@ Files are not copied without confirmation. Android and your file provider may de
 - The APK does not include a user’s library, personal attachments, passwords, or private signing keys.
 
 
-Contact me via Telegram group messages: https://t.me/qecervov
+If you encounter any errors or bugs, you can contact me through Telegram group messages: https://t.me/qecervov
 
 --------
 ## **RU**
@@ -165,4 +165,4 @@ Android и используемый файловый провайдер могу
 
 ## Связь с разработчиком
 
-Связаться со мной можно через сообщения группы в Telegram: https://t.me/qecervov
+Связаться со мной в случае ошибок/багов можно через сообщения группы в Telegram: https://t.me/qecervov
