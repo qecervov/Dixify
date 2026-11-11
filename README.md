@@ -1,5 +1,5 @@
 # Dixify
-#**ENG**
+## **ENG**
 **An offline player for your music on Android.**
 
 Build your library, create playlists, and enjoy your favorites. “My Wave” arranges music from your collection, taking your favorites, listening history, genres, categories, and tags into account. Customize the sound and appearance to suit you — no account or internet connection required for listening.
@@ -72,7 +72,7 @@ Files are not copied without confirmation. Android and your file provider may de
 Contact me via Telegram group messages: https://t.me/qecervov
 
 --------
-#**RU**
+## **RU**
 # Dixify
 
 **Офлайн-плеер для вашей музыки на Android.**
