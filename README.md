@@ -66,3 +66,6 @@ Files are not copied without confirmation. Android and your file provider may de
 - File access is granted through the system folder or file picker.
 - Internet access is used to download artwork from a link you provide; music and listening history are not uploaded to a server.
 - The APK does not include a user’s library, personal attachments, passwords, or private signing keys.
+
+
+Contact me via Telegram group messages: https://t.me/qecervov
