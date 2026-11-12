@@ -1,4 +1,5 @@
-# Dixify
+# Dixify <img width="1774" height="887" alt="Dixify" src="https://github.com/user-attachments/assets/efcf0487-dc21-42c7-bf57-e18fbe18c8f1" />
+
 ## **ENG**
 **An offline player for your music on Android.**
 
